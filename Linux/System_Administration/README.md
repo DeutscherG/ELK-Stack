@@ -69,9 +69,9 @@
 4. Provide a report from the Lynis output on what can be done to harden the system.
 
     - Screenshot of report output:
-    - ![lynis1](./lynis01.jpg)
-    - ![lynis2](./lynis02.jpg)
-    - ![lynis3](./lynis03.jpg)
+    - ![lynis1](./Lynis01.jpg)
+    - ![lynis2](./Lynis02.jpg)
+    - ![lynis3](./Lynis03.jpg)
 
 ### Bonus
 1. Command to install chkrootkit: sudo apt install -y chkrootkit
